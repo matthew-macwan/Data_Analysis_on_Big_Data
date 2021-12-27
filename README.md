@@ -6,6 +6,6 @@ In this project, I want to take some time to understand the differences of worki
 
 - Working_with_Big_Data.ipynb - Jupyter notebook containing Python code and analysis on large datasets. 
 
-### Data Science Topics Covered
+### Topics Covered
 
 - computation runtime, data analysis, exploratory data analysis, 
