@@ -8,4 +8,4 @@ In this project, I want to take some time to understand the differences of worki
 
 ### Topics Covered
 
-- computation runtime, data analysis, exploratory data analysis, 
+- computation runtime, data analysis, exploratory data analysis, data visualization
